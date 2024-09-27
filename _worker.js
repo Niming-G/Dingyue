@@ -6,7 +6,7 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 // 设置优选地址，不带端口号默认443，TLS订阅生成
 let addresses = [
 	'icook.tw:2053#优选域名',
-	'aliyun.2096.us.kg#优选线路',
+	'aliyun.2096.us.kg:443#优选线路',
 ];
 
 // 设置优选地址api接口
